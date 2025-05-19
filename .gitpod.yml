@@ -1,0 +1,2 @@
+tasks:
+  - command: docker build -t my-hello-world .
